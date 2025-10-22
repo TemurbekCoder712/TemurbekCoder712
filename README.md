@@ -1,41 +1,86 @@
-## Hi there 👋 I'm Temurbek Narzullayev  
+<!-- 💫 Animated header -->
+<h1 align="center">Hi there 👋, I'm Temurbek Narzullayev</h1>
+<h3 align="center">🚀 Frontend Developer | 🌐 Web Security Learner | 💡 Bug Bounty Enthusiast</h3>
 
-### 💻 About Me  
-I'm a passionate **Frontend Developer** and beginner **Cybersecurity Enthusiast** from Uzbekistan.  
-I love building beautiful, responsive web applications and exploring web security concepts like **Bug Bounty**, **Ethical Hacking**, and **Web Vulnerabilities**.  
-
----
-
-### 🚀 What I'm Currently Doing  
-- 🔭 Working on: React projects with modern tools like **Tailwind CSS**, **Redux Toolkit**, and **React Query**  
-- 🌱 Learning: **Cybersecurity**, **Kali Linux**, and **Web Exploitation**  
-- 💬 Ask me about: React, JavaScript, HTML, CSS, Tailwind, or anything related to frontend development  
-- 📚 Goal: Become a **Full-Stack Web Security Developer**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+%7C+Tailwind+%7C+JavaScript;Cybersecurity+Learner;Turning+ideas+into+real+projects!" alt="Typing Animation" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack  
-- **Frontend:** HTML | CSS | JavaScript | React | Tailwind CSS | Bootstrap | Sass  
-- **Tools:** Git | GitHub | VS Code | Figma | Notion  
-- **Cybersecurity:** Kali Linux | Burp Suite (learning) | OWASP Basics  
+### 🌟 About Me  
+
+💻 I'm a passionate developer from **Uzbekistan** who loves creating modern and responsive web apps.  
+🔐 Exploring the world of **Cybersecurity** and **Bug Bounty Hunting**.  
+🎯 My goal: Become a **Full-Stack Developer** with strong **Web Security** skills.  
+
+---
+
+### ⚙️ Tech Stack  
+
+#### 🧠 Languages & Frameworks  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass,ts" />
+</p>
+
+#### 🛠️ Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,linux" />
+</p>
+
+---
+
+### 🚀 My Projects  
+
+| Project Name | Description | Tech Used |
+|---------------|--------------|------------|
+| 🧃 **Drinks App** | A React app with Cart, Wishlist, and Theme Toggle | React, Context API, Tailwind |
+| 🧾 **Test Bot** | Telegram bot that sends programming quizzes | Python, Aiogram |
+| 🕵️ **OCR Reader Bot** | Image-to-text bot using Tesseract OCR | Python, OpenCV |
+| 🌍 **English Learning Site** | Platform for English lessons | React, Tailwind CSS |
+| 🧑‍💻 **Portfolio Website** | Personal developer portfolio | React, GSAP Animations |
 
 ---
 
 ### 📊 GitHub Stats  
 
-![Temurbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=TemurbekCoder712&show_icons=true&theme=blue-green&title_color=00b3ff&icon_color=00b3ff)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TemurbekCoder712&show_icons=true&theme=tokyonight&hide_border=true" alt="Temurbek's GitHub stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TemurbekCoder712&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TemurbekCoder712&layout=compact&theme=blue-green)
-
----
-
-### 🌐 Connect with Me  
-- 💼 GitHub: [TemurbekCoder712](https://github.com/TemurbekCoder712)  
-- 💬 Telegram: [@Temurprogram77](https://t.me/Temurprogram77)  
-- ✉️ Email: temurbekcoder712@gmail.com  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemurbekCoder712&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
 
 ---
 
-### ⚡ Fun Fact  
-> "Coding is not just typing code — it's turning imagination into reality." 🚀  
+### 🧩 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TemurbekCoder712&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
 
+---
+
+### 🧠 Currently Learning  
+- 🔥 **Cybersecurity Fundamentals (Kali Linux, Burp Suite)**  
+- ⚛️ **Advanced React Concepts (Hooks, Context, Redux)**  
+- 💬 **English (B2–C1 Level Goal)**  
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://t.me/Temurprogram77" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:temurbekcoder712@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/TemurbekCoder712" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### ⚡ Fun Quote  
+> “The best way to predict the future is to create it.” – Alan Kay  
+
+<p align="center">
+  <img src="https://github.com/TemurbekCoder712/TemurbekCoder712/blob/main/assets/animation.gif" width="250px" alt="Coding animation" />
+</p>
