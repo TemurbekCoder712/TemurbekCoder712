@@ -16,25 +16,17 @@
 
 ---
 
-### ⚙️ Tech Stack  
+### ⚙️ My Skills  
 
-#### 🧠 Languages & Frameworks  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass,ts" />
-</p>
-
-#### 🛠️ Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,linux" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,dart,cpp,python,flutter,php,html,css,vscode,visualstudio,pycharm,webstorm,androidstudio,linux,kali,tailwind,sass,bootstrap,styledcomponents,react,vite,vue,angular,nodejs,git,github,pnpm,npm,yarn,figma,stackoverflow&perline=13)](#)
 
 ---
 
 ### 🚀 My Projects  
 
-| Project Name | Description | Tech Used |
-|---------------|--------------|------------|
-| 🧃 **Drinks App** | A React app with Cart, Wishlist, and Theme Toggle | React, Context API, Tailwind |
+| 💼 Project Name | 📝 Description | 🧩 Tech Used |
+|-----------------|----------------|---------------|
+| 🧃 **Drinks App** | React app with Cart, Wishlist, and Theme Toggle | React, Context API, Tailwind |
 | 🧾 **Test Bot** | Telegram bot that sends programming quizzes | Python, Aiogram |
 | 🕵️ **OCR Reader Bot** | Image-to-text bot using Tesseract OCR | Python, OpenCV |
 | 🌍 **English Learning Site** | Platform for English lessons | React, Tailwind CSS |
@@ -64,8 +56,8 @@
 
 ### 🧠 Currently Learning  
 - 🔥 **Cybersecurity Fundamentals (Kali Linux, Burp Suite)**  
-- ⚛️ **Advanced React Concepts (Hooks, Context, Redux)**  
-- 💬 **English (B2–C1 Level Goal)**  
+- ⚛️ **Advanced React (Hooks, Context, Redux Toolkit)**  
+- 💬 **English for IT (Target: B2–C1 Level)**  
 
 ---
 
@@ -82,5 +74,5 @@
 > “The best way to predict the future is to create it.” – Alan Kay  
 
 <p align="center">
-  <img src="https://github.com/TemurbekCoder712/TemurbekCoder712/blob/main/assets/animation.gif" width="250px" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250px" alt="Coding animation" />
 </p>
